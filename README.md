@@ -81,4 +81,4 @@ Need invoices, receipts, or other documents extracted into your spreadsheet or s
 
 ## License
 
-MIT
+All rights reserved. This is a portfolio sample: you can read and run the code to evaluate my work, but you may not use it commercially, redistribute it or build on it without my written permission. See [LICENSE](LICENSE).
